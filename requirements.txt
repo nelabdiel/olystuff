@@ -13,10 +13,6 @@ boto==2.38.0
 Bottleneck==1.0.0
 certifi==14.5.14
 cffi==1.2.1
-gunicorn==19.3.0
-llvmlite==0.7.0+3.g1ec568f
-lxml==3.4.4
-MarkupSafe==0.23
 matplotlib==1.4.3
 requests==2.8.1
 
