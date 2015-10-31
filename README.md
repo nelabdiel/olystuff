@@ -6,3 +6,5 @@ Then does comparisons between weight classes, and ultimately compares sinclair t
 This is work in progress.
 
 Ultimately the idea would be to develop a better comparison than the sinclair total, for lifters in different weight classes.
+
+(written for python 3)
