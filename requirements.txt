@@ -1,18 +1,4 @@
-abstract-rendering==0.5.1
-alabaster==0.7.6
-appnope==0.1.0
-appscript==1.0.1
-argcomplete==1.0.0
-astropy==1.0.4
-Babel==2.1.1
 beautifulsoup4==4.3.2
-bitarray==0.8.1
-blaze==0.8.3
-bokeh==0.10.0
-boto==2.38.0
-Bottleneck==1.0.0
-certifi==14.5.14
-cffi==1.2.1
 matplotlib==1.4.3
 requests==2.8.1
 
