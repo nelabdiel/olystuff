@@ -15,6 +15,6 @@ This still is work in progress.
 
 Ultimately the idea would be to develop a better comparison than the sinclair total, for lifters in different weight classes.
 
-What I believe to be the issue with the Sinclair is that it uses as a reference a lifter from the 105+ weight class which, as you can see from the graph is a heavily scattered weight class.
+What is thought to be the issue with the Sinclair is that it uses as a reference a lifter from the 105+ weight class which, as you can see from the graphs is a heavily scattered weight class and has no weight limit.
 
 (written for python 3)
