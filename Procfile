@@ -1,1 +1,1 @@
-web: gunicorn app.wsgi OlympicWeightlifting.ipynb --pythonpath app --log-file -
+web: gunicorn OlympicWeightlifting.ipynb --log-file -
