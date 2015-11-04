@@ -1,1 +1,1 @@
-web: gunicorn olystuff:app
+web: gunicorn OlympicWeightlifting.ipynb
