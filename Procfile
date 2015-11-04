@@ -1,1 +1,1 @@
-web: gunicorn OlympicWeightlifting.ipynb --log-file -
+web: gunicorn OlympicWeightlifting.ipynb:app --log-file -
