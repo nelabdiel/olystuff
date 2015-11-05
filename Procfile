@@ -1,1 +1,1 @@
-web: gunicorn olystuff:app --log-file=-
+web: gunicorn OlympicWeightlifting:app --log-file=-
