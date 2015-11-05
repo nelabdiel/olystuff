@@ -1,1 +1,1 @@
-web: gunicorn olystuff.wsgi
+web: gunicorn olystuff:app --log-file=-
